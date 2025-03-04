@@ -1,0 +1,5 @@
+num = int(input("Digite um número inteiro para saber seu sucessor e seu antecessor:"))
+antecessor = num-1
+sucessor = num+1
+
+print("Antecessor:",antecessor,"sucessor:",sucessor)
