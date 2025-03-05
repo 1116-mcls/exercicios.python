@@ -1,0 +1,4 @@
+dias = int(input("Quantos dias você trabalhou este mês?"))
+salario = 25*8*dias
+
+print("Neste mês você irá ganhar:",salario)
