@@ -1,0 +1,6 @@
+dist = float(input("Digite uma distância em km:"))
+m = dist*1000
+cm = dist*100000
+mm = dist*1000000
+
+print("A distância",dist,"em metros é:",m,"em centímetros é:",cm,"em milímetros é:",mm)
