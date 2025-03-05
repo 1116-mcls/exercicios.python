@@ -1,0 +1,6 @@
+A = int(input("Digite um número inteiro:"))
+B = int(input("Digite um segundo número inteiro:"))
+C = int(input("Digite um terceiro número inteiro:"))
+delta = (B**2)-(4*(A*C))
+
+print("O valor do delta é:",delta)
