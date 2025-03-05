@@ -1,0 +1,5 @@
+km = int(input("Quantos km o seu carro alugado percorreu?"))
+dias = int(input("Por quantos dias você alugou o seu carro?"))
+pagar =  (dias*90)+(km*0.20)
+
+print("De acordo com as informações passadas, você tem que pagar",pagar,"pelo carro alugado.")
