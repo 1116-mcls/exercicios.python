@@ -1,7 +1,0 @@
-velocidade = int(input("Qual velocidade você está?"))
-multa = (velocidade-80)*5
-
-if velocidade >80:
-    print("Você foi multado por excesso de velocidade, no valor de:",multa)
-else:
-    print("Parabéns, você está dentro do limite de velocidade!!!")
