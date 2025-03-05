@@ -1,0 +1,5 @@
+salario = float(input("Digite o seu salário:"))
+newsal = salario*0.15
+novsal = salario+newsal
+
+print("Agora o seu novo salário é:",novsal)
