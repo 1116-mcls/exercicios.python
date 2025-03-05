@@ -1,0 +1,5 @@
+prod = float(input("Digite o valor do produto sem promoção:"))
+prom = prod*0.05
+prom2 = prod-prom
+
+print("O produto que originalmente tinha o valor",prod,"agora está com 5% de desconto e está:",prom2)
