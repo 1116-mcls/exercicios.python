@@ -1,6 +1,6 @@
 largura = float(input("Digite a largura da parede:"))
 altura = float(input("Digite a altura da parede:"))
 area = largura*altura
-pintar = area*2 
+pintar = area/2 
 
 print("A área a ser pintada é de",area,"m² e é necessário",pintar,"litros de tinta para pintá-la")
